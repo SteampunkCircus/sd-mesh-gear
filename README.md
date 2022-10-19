@@ -1,6 +1,9 @@
 # sd-mesh-gear
+Notice: I made a short tutorial of 60 seconds but for some reason the exporting of that video isn't working from my video editor online service that I'm using. I'll update this if that happens. It's a cool video. No talking. Just cool stuff. In 60 seconds.
+
 The files from that YouTube video and how I made them.
 
+This is not the tutorial video. This is what caused the tutorial video.
 [YouTube video](https://youtu.be/YHjyJkZZa2M)
 
 So, I couldn't just post those mp4s and not share how to do it. This stuff is super cool! This is how I share.
